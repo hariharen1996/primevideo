@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.popup-content {
+  width: 700px;
+  padding: 20px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+
+.close-btn {
+  align-self: flex-end;
+  background-color: transparent;
+  width: 20px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumb-img {
+  width: 250px;
+  cursor: pointer;
+}
+.modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
